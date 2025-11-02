@@ -107,14 +107,7 @@ const PROJECTS = [
   },
 ];
 
-// ===== Reusable UI (define BEFORE use) =====
-function Badge({ text }: { text: string }) {
-  return (
-    <span className="inline-block rounded-full px-3 py-1 text-xs font-semibold border" style={{ borderColor: `${ACCENT}66`, color: ACCENT }}>
-      {text}
-    </span>
-  );
-}
+
 
 function SectionTitle({ title, subtitle }: { title: string; subtitle?: string }) {
   return (
