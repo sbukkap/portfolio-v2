@@ -88,6 +88,14 @@ const PROJECTS = [
   tech: ["Laravel", "PHP", "Bootstrap", "AJAX", "JSON"],
   link: "https://github.com/sbukkap/inventory-app-laravel",
 },
+{
+  title: "Simon Game",
+  image: "/images/simon-game.png",
+  blurb:
+    "Built a classic Simon memory game with smooth color flashes and sound cues! I learned state handling, timing sequences, and making clean, responsive UI interactions in the browser.",
+  tech: ["JavaScript", "HTML", "CSS"],
+  link: "https://github.com/sbukkap/simon-game",
+},
 
   {
     title: "Rank Tracker (SEO)",
