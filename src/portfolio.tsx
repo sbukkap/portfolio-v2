@@ -40,6 +40,13 @@ function Nav() {
 
 const PROJECTS = [
   {
+title: "Custom ChatGPT Themes",
+image: "/images/custom-chatgpt-themes.png",
+blurb: "I built a Chrome extension that lets users apply and customize color themes for ChatGPT. It includes quick presets and a full settings page for fine-tuning colors, with persistent storage across devices. Learned about Chrome extension development, Manifest V3, and the Chrome Storage API.",
+tech: ["JavaScript", "HTML", "CSS", "Chrome Extensions API"],
+link: "https://github.com/sbukkap/custom-chatgpt-themes"
+},
+  {
     title: "Startup Pitch Submission Platform",
     image: "/images/startup-pitch.png",
     blurb:
