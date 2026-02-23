@@ -58,8 +58,8 @@ link: "https://github.com/sbukkap/custom-chatgpt-themes"
     title: "Townery — Community Platform",
     image: "/images/townery.png",
     blurb:
-      "I helped create a local network where people can discover nearby events, jobs, and services. Picked up TypeScript, GraphQL, and CI/CD with Docker and GitHub Actions.",
-    tech: ["Vue", "TypeScript", "GraphQL", "Prisma", "PostgreSQL", "Docker"],
+      "I helped create a local network where people can discover nearby events, jobs, and services. Picked up Next.js, TypeScript, GraphQL, and CI/CD with Docker and GitHub Actions.",
+    tech: ["Next.js", "TypeScript", "GraphQL", "Prisma", "PostgreSQL", "Docker"],
     link: "https://github.com/townary/indiana-social-frontend",
   },
   {
@@ -75,7 +75,7 @@ link: "https://github.com/sbukkap/custom-chatgpt-themes"
   image: "/images/hpass.png",
   blurb:
     "Developed a secure car rental web app with JWT login, car listings, and Stripe payments. Integrated Google Maps for location-based browsing and learned how to handle roles for admins, owners, and users.",
-  tech: ["React", "Express", "MongoDB", "Stripe", "Google Maps API"],
+  tech: ["Next.js", "React", "Express", "MongoDB", "Stripe", "Google Maps API"],
   link: "https://github.com/sbukkap/se_team19_car_rental_management_system",
 },
 
