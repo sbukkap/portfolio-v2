@@ -55,6 +55,14 @@ link: "https://github.com/sbukkap/custom-chatgpt-themes"
     link: "https://github.com/sbukkap/cool-looking-app",
   },
   {
+title: "Web IDE — Live Code Playground",
+image: "/images/web-ide.png",
+blurb:
+"A browser-based live code editor where you can edit HTML, CSS, and JS with an instant preview. Built the editor UI, responsive mobile editor, and live-preview plumbing using Next.js and Tailwind; integrated CodeMirror for editing and organized reusable UI components.",
+tech: ["Next.js", "React", "Tailwind", "CodeMirror", "GitHub"],
+link: "https://github.com/sbukkap/web-ide"
+},
+  {
     title: "Townery — Community Platform",
     image: "/images/townery.png",
     blurb:
