@@ -306,7 +306,7 @@ export default function NeonMinimalPortfolio() {
               role="Software Engineer / Frontend (Volunteer)"
               time="Jan 2025 — Present"
               points={[
-                "Built Vue + TypeScript modules for Businesses, Events, and Jobs using GraphQL APIs.",
+                "Built Next.js + TypeScript modules for Businesses, Events, and Jobs using GraphQL APIs.",
                 "Improved accessibility and performance through reusable components and lazy loading.",
                 "Containerized services and automated deployment pipelines with Docker and GitHub Actions.",
               ]}
